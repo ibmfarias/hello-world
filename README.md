@@ -1,2 +1,4 @@
 # hello-world
-Primeiro repositório do curso de GitHub
+Primeiro repositório do curso de Git e GitHub
+
+Repositório criado através do GitHub desktop
